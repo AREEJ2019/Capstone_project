@@ -31,8 +31,7 @@ In this project, will focus to answer this 4 questions:
 
 <a id='Data preparation and clean'></a>
 # Data preparation and clean
-Data is checked using some functins ,missing values ,duplicates and drop some cloumns that wont be used in the analysis.
-first i checked the data duplicates and found 23 duplicated recored and i droped them ,then i droped the cloumns ['INCIDENT_NUMBER','OFFENSE_CODE', 'OFFENSE_CODE_GROUP', 'DISTRICT','REPORTING_AREA','SHOOTING','UCR_PART','STREET','Lat','Long','Location'] since it wont be needed in analysis based on my questions. after that i checked if there is  null value in data and there was no nulls .
+Data is checked using some functins ,missing values ,duplicates and drop some cloumns that wont be used in the analysis.rename the coloumn. i checked the data duplicates and i droped them ,then i droped the cloumnsthat wont be nedded in analysis based on my questions. after that i checked the null values .
   
 
 <a id='File Description'></a>
