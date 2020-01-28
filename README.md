@@ -40,14 +40,14 @@ first i checked the data duplicates and found 23 duplicated recored and i droped
 # File Description
 
 These are the following files I used to complete this analysis:
-job_Posting.ipynb: The iPython notebook containing all calculations, figures, and findings pertaining to the project.
+Capstone_job_Posting.ipynb: The iPython notebook containing all calculations, figures, and findings pertaining to the project.
 job_Posting.html: html containing all calculations, figures, and findings pertaining to the project.
-Crime.csv: A file containing all of the dates available for crime in Boston
+nyc-jobs.csv: A file containing all of the dates available for crime in Boston
 
 
 <a id='Results'></a>
 # Results
-The main findings of the code can be found at the <a href="https://medium.com/@albishiareej/project-data-science-blog-post-crimes-in-usa-boston-data-4c4417aff7e7">Blog</a> available
+The main findings of the code can be found at the job_Posting.html or Capstone_job_Posting.ipynb that provided in the git hub repository
 
 
 
@@ -55,4 +55,4 @@ The main findings of the code can be found at the <a href="https://medium.com/@a
 
 # Licensing, Authors, and Acknowledgements
 
-thanks to Udacity courses for some of code ideas, and to kaggle/Crimes in Boston  for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here <a href="https://www.kaggle.com/AnalyzeBoston/crimes-in-boston">Kaggle</a>. Otherwise, feel free to use the code here as you would like!
+thanks to Udacity courses for some of code ideas, and to kaggle/New York City Current Job Postings for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here <a href="https://www.kaggle.com/new-york-city/new-york-city-current-job-postings">Kaggle</a>. Otherwise, feel free to use the code here as you would like!
