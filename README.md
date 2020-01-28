@@ -2,7 +2,6 @@
 
 # Project: Capstone Project - (New York City Current Job Postings _ Kaggle Data)
 Areej Albishi
-Date: Nov 4, 2017
 ## Table of Contents
 
 <ul>
