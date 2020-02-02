@@ -44,7 +44,7 @@ These are the following files I used to complete this analysis:
 - `nyc-jobs.csv:` A file containing all of the dates available for job posting in NY
 
 Here is aschema and explanation of each varible in the nyc-jobs.csv file:
-- `nyc-jobs.csv`
+ `nyc-jobs.csv:`
 - Job ID(ID):offer id
 - Agency(string): the type of Agencys that posting jobs ie DEPT OF ENVIRONMENT PROTECTION,NYC HOUSING AUTHORITY
 - Posting Type(string): the type of posting  Internal postings available to city employees and external postings available to the general public 
