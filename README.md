@@ -39,8 +39,8 @@ Data is checked using some functions ,missing values ,duplicates and drop some
 the notebook available here showcases work related to the above questoins.
 the dataset siplified vesion of the real New York City Current Job Postings
 These are the following files I used to complete this analysis:
-- `Capstone_job_Posting.ipynb:`The iPython notebook containing all calculations, figures, and findings pertaining to the project.
-- `job_Posting.html:` html containing all calculations, figures, and findings pertaining to the project.
+- `Capstone.ipynb:`The iPython notebook containing all calculations, figures, and findings pertaining to the project.
+- `capstoneP.html:` html containing all calculations, figures, and findings pertaining to the project.
 - `nyc-jobs.csv:` A file containing all of the dates available for job posting in NY
 
 Here is aschema and explanation of each varible in the nyc-jobs.csv file:
