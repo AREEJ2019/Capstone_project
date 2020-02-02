@@ -41,7 +41,7 @@ the dataset siplified vesion of the real New York City Current Job Postings
 These are the following files I used to complete this analysis:
 - `Capstone_job_Posting.ipynb:`The iPython notebook containing all calculations, figures, and findings pertaining to the project.
 - `job_Posting.html:` html containing all calculations, figures, and findings pertaining to the project.
-- `nyc-jobs.csv:` A file containing all of the dates available for crime in Boston
+- `nyc-jobs.csv:` A file containing all of the dates available for job posting in NY
 
 Here is aschema and explanation of each varible in the nyc-jobs.csv file:
 - `nyc-jobs.csv`
