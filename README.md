@@ -31,7 +31,7 @@ In this project, will focus to answer this 4 questions:
 
 <a id='Data preparation and clean'></a>
 # Data preparation and clean
-Data is checked using some functins ,missing values ,duplicates and drop some cloumns that wont be used in the analysis.rename the coloumn. i checked the data duplicates and i droped them ,then i droped the cloumns that wont be nedded in analysis based on my questions. after that i checked the null values and  performed one-hot encoding on categorical columns like Full_Time and Part_Time of job posting indicator
+Data is checked using some functions ,missing values ,duplicates and drop some columns that wont be used in the analysis. rename the column. i checked the data duplicates and i dropped them ,then i dropped the columns that wont be nodded in analysis based on my questions. after that i checked the null values and performed one-hot encoding on categorical columns like Full_Time and Part_Time of job posting indicator
   
 
 <a id='File Description'></a>
