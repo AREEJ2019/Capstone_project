@@ -20,7 +20,7 @@ The code should run with no issues using Python versions 3.*.
 <a id='Project Motivation'></a>
 
 # Project Motivation
-Job opprtunities is very importrnt in each country , new york consider one of the most crowded cities. people are alwayes looking for jop opprtunities to live in this nice city and for that this dataset that available in kaggele by Department of Citywide Administrative Services (DCAS) will help us to understand the jobs poitions by answering some questions. "This dataset contains current job postings available on the City of New York’s official jobs site (http://www.nyc.gov/html/careers/html/search/search.shtml). Internal postings available to city employees and external postings available to the general public are included.the dataset is hosted by the City of New York. The city has an open data platform found(https://opendata.cityofnewyork.us/) and they update their information according the amount of data that is brought in. Explore New York City using Kaggle and all of the data sources available through the City of New York organization page! This dataset is updated weekly."
+Job opportunities is very important in each country , new York consider one of the most crowded cities. people are always looking for job opportunities to live in this nice city and for that this dataset that available in kaggele by Department of Citywide Administrative Services (DCAS) will help us to understand the jobs positions by answering some questions. "This dataset contains current job postings available on the City of New York's official jobs site (http://www.nyc.gov/html/careers/html/search/search.shtml). Internal postings available to city employees and external postings available to the general public are included. The dataset is hosted by the City of New York. The city has an open data platform found(https://opendata.cityofnewyork.us/) and they update their information according the amount of data that is brought in. Explore New York City using Kaggle and all of the data sources available through the City of New York organization page! This dataset is updated weekly."
 
 "This project will follow the CRISP-DM process (Cross Industry Process for Data Mining)
 In this project, will focus to answer this 4 questions:
@@ -80,7 +80,7 @@ here is aschema and explanation of each varible in the nyc-jobs.csv file:
 
 <a id='Results'></a>
 # Results
-The main findings of the code can be found at the job_Posting.html or Capstone_job_Posting.ipynb that provided in the git hub repository
+he main findings of the code can be found at the post available [here](https://medium.com/@joshua.chyeung/send-out-a-starbucks-offer-that-you-cannot-resist-2d4d7d18b417).
 
 
 
