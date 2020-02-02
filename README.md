@@ -81,9 +81,7 @@ Here is aschema and explanation of each varible in the nyc-jobs.csv file:
 
 <a id='Results'></a>
 # Results
-he main findings of the code can be found at the post available [here](https://medium.com/@joshua.chyeung/send-out-a-starbucks-offer-that-you-cannot-resist-2d4d7d18b417).
-
-
+he main findings of the code can be found at the post available [here](https://medium.com/@albishiareej/project-data-science-capstone-project-job-posting-in-usa-ny-162cfb9b972c).
 
 <a id='Licensing, Authors, and Acknowledgements'></a>
 
