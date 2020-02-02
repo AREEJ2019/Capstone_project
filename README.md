@@ -47,7 +47,7 @@ here is aschema and explanation of each varible in the nyc-jobs.csv file:
 - Job ID(ID):offer id
 - Agency(string): the type of Agencys that posting jobs ie DEPT OF ENVIRONMENT PROTECTION,NYC HOUSING AUTHORITY
 - Posting Type(string): the type of posting  Internal postings available to city employees and external postings available to the general public 
-- # Of Positions(intger):
+- '# Of Positions(intger):' number of job posting offered from each agencyies.
 - Business Title(string): the Title of job offering ie Assistant Civil Engineer,Project Manager
 - Civil Service Title (string): type of Civil Service Title ie COMMUNITY COORDINATOR,AGENCY ATTORNEY,CIVIL ENGINEER
 - Title Code No(string): the title code nnumber(id) 
